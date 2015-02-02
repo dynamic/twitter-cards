@@ -1,4 +1,4 @@
-<?
+<?php
 
 class TwitterCardBuilderExtension extends Extension {
 
