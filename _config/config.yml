@@ -1,0 +1,12 @@
+---
+Name: twittercards
+---
+SiteConfig:
+  extensions:
+    - TwitterSiteConfig
+Page:
+  extensions:
+    - TwitterCardExtension
+OpenGraphBuilder:
+  extensions:
+    - TwitterCardBuilderExtension
