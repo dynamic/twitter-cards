@@ -1,0 +1,22 @@
+{
+    "name": "dynamic/twitter-cards",
+    "description": "Add on module to silverstripe open graph, adds tags for Twitter Cards",
+    "keywords": ["silverstripe", "open graph", "module", "twitter", "cards"],
+    "license": "BSD-3-Clause",
+    "type": "silverstripe-module",
+    "require": {
+    	"silverstripe/framework": "^3.1",
+        "silverstripe/cms": "^3.1",
+        "tractorcow/silverstripe-opengraph": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Dynamic",
+            "homepage": "http://www.dynamicagency.com",
+            "email": "dev@dy.ag"
+        }
+    ],
+	"extra": {
+		"installer-name": "twitter-cards"
+	}
+}
